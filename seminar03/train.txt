@@ -1,0 +1,6 @@
+this is a tiny corpus for bpe training
+bpe learns merges from frequent symbol pairs
+subword tokenization helps with unknown words
+tokenizers can split words into smaller pieces
+we will train a bpe tokenizer on this file
+then we will encode and decode some sentences
